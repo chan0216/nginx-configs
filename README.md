@@ -14,5 +14,5 @@
 
 `docker-compose.yml`
 - 使用的 image 參考自 [docker-nginx-certbot](https://github.com/JonasAlfredsson/docker-nginx-certbot)，
-建置 Nginx 及自動生成 Let's Encrypt SSL 憑證
+  利用 Docker 建置 Nginx 及自動生成 Let's Encrypt SSL 憑證
 
