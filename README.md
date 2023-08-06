@@ -10,9 +10,9 @@
 - 配置反向代理
 
 `nginx.conf`
-<br> Nginx 基本和安全設定的配置檔
+- Nginx 基本和安全設定的配置檔
 
 `docker-compose.yml`
-<br>使用的 image 是參考 [docker-nginx-certbot](https://github.com/JonasAlfredsson/docker-nginx-certbot)，
+- 使用的 image 參考自 [docker-nginx-certbot](https://github.com/JonasAlfredsson/docker-nginx-certbot)，
 建置 Nginx 及自動生成 Let's Encrypt SSL 憑證
 
